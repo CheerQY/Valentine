@@ -69,7 +69,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:409;
   font-style:normal;
   font-size:16px;
@@ -83,7 +83,7 @@
   top:212px;
   width:280px;
   height:50px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:409;
   font-style:normal;
   font-size:16px;
@@ -176,7 +176,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:409;
   font-style:normal;
   color:#FFFFFF;
@@ -189,7 +189,7 @@
   top:163px;
   width:280px;
   height:50px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:409;
   font-style:normal;
   color:#FFFFFF;
